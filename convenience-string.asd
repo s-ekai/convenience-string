@@ -2,7 +2,7 @@
   :version "0.1.0"
   :author "Masayuki Suzuki"
   :license "MIT"
-  :depends-on ()
+  :depends-on ("cl-ppcre")
   :components ((:module "src"
                 :components
                 ((:file "main"))))
